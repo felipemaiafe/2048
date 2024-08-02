@@ -1,2 +1,2 @@
 # 2048
-2048 game that plays itsfel
+2048 game that plays itself
